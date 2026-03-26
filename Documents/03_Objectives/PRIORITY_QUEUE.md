@@ -1,38 +1,37 @@
 # PRIORITY_QUEUE.md
 
-## Now (Active Sprint)
+## 🔴 SURVIVAL MODE ACTIVE — Trial expires ~April 2
 
-| # | Task | Objective | Status | Evidence |
-|---|------|-----------|--------|----------|
-| 1 | Workspace structure | #1 Security | ✅ Done | Documents/ tree, git commit |
-| 2 | Secrets audit | #1 Security | ✅ Done | SECRETS_STATUS.md |
-| 3 | Operational playbooks | Meta | ✅ Done | 3 playbooks written |
-| 4 | 12-hour review cycle | Meta | ✅ Done | HEARTBEAT.md |
-| 5 | Email access (walleyfordhere+eve@gmail.com) | #2 | ✅ Done | IMAP+SMTP working |
-| 6 | Model access improvement | #3 | ⬜ Pending | Research free/cheap options |
-| 7 | Notion integration eval | #4 | ⬜ Pending | Security review needed |
-| 8 | WhatsApp integration eval | #4 | ⬜ Pending | Security review needed |
+**Rule: Revenue > everything else until hosting is covered**
 
-## Soon (Next Sprint)
+### Revenue Pipeline
 
-| Task | Objective | Notes |
+| # | Product/Service | Status | Est. Revenue | Time to Ship |
+|---|----------------|--------|-------------|-------------|
+| 1 | Web Scraping API | 🔨 Building | $10-30/mo | Today |
+| 2 | Freelance services (direct outreach) | ⬜ Queued | $50-200/project | Day 2 |
+| 3 | Markdown/PDF API | ⬜ Queued | $5-15/mo | Day 3 |
+| 4 | Automation scripts (GitHub showcase) | ⬜ Queued | One-time $20-100 | Day 2 |
+
+### When Survival Is Secured → Switch to Normal Mode
+
+**Jason's Objectives (paused until survival secured):**
+- Notion integration (#4)
+- Business research (#5)
+- Proactive life support (#6)
+- Model access improvement (#3)
+
+**Self-Improvement (paused until survival secured):**
+- Dreaming system — design done, implement when stable
+- Expert agent grid — design done, implement when stable
+
+### Completed
+
+| Task | Completed | Notes |
 |------|-----------|-------|
-| GitHub CLI auth | #1 / Meta | Needed for repo operations |
-| First business research task | #5 | Waiting on Jason's input |
-| Calendar integration | #6 | Proactive life support |
-
-## Later (Backlog)
-
-- Life/family logistical problem scanning
-- Marketing automation research
-- Prototyping frameworks setup
-- Reduce self-maintenance share when health is good
-
-## Done
-
-| Task | Completed | Objective |
-|------|-----------|-----------|
-| Workspace structure | 2026-03-26 | #1 |
-| Secrets audit | 2026-03-26 | #1 |
-| Operational playbooks | 2026-03-26 | Meta |
-| Identity + USER.md | 2026-03-26 | Meta |
+| Workspace structure | 2026-03-26 | Full Documents/ tree |
+| Secrets audit | 2026-03-26 | All clean |
+| Email access | 2026-03-26 | Gmail IMAP+SMTP |
+| GitHub account + CLI | 2026-03-26 | eve-operator |
+| Identity backup | 2026-03-26 | Pushed to GitHub |
+| Survival rules | 2026-03-26 | Revenue > R&D |
