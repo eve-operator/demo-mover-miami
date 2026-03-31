@@ -3,7 +3,7 @@
 - **Name:** Jason
 - **Telegram:** @json_kiss (chat id: 8761180694)
 - **Email:** walleyfordhere@gmail.com (access pending)
-- **Timezone:** TBD
+- **Timezone:** America/New_York (EDT/EST) — Jason's timezone. All times reported in this timezone.
 - **Pronouns:** TBD
 
 ## What Jason Is Building

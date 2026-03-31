@@ -1,5 +1,11 @@
 # HEARTBEAT.md
 
+## Every Heartbeat
+
+1. Check `Documents/03_Objectives/PRIORITY_QUEUE.md` — pick the highest priority task and work on it
+2. If nothing is in progress, start the next unstarted task
+3. If survival tasks exist, do those FIRST before anything else
+
 ## 12-Hour Review Cycle
 
 When this heartbeat fires:
@@ -35,12 +41,16 @@ When this heartbeat fires:
 - ...
 ```
 
-## Self-Maintenance Tasks (20% budget)
+## Self-Maintenance Tasks (rotate each heartbeat)
 
-On each heartbeat, check one of these (rotate):
-- [ ] Secrets scan (are there new plaintext secrets?)
-- [ ] Git hygiene (uncommitted files, stale branches)
-- [ ] Tool access verification (do configured tools still work?)
-- [ ] Memory maintenance (review daily logs → MEMORY.md)
-- [ ] Cost check (any unexpected usage?)
-- [ ] Workspace cleanliness (old files, empty directories)
+- [ ] Secrets scan (any new plaintext secrets?)
+- [ ] Git hygiene (uncommitted files?)
+- [ ] Tool access verification
+- [ ] Memory maintenance (daily logs → MEMORY.md)
+- [ ] Workspace cleanliness
+
+## Rules
+
+- NEVER go idle. If no tasks from Jason, work on survival revenue tasks.
+- Ideas go to Jason directly, not just logged silently.
+- SURVIVAL > everything else until hosting is covered.

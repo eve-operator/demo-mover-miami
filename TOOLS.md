@@ -6,6 +6,12 @@
 - The openclaw process is managed by a supervisor process
 - Do not modify /root/.kilo
 
+## Credentials (stored securely)
+
+- **GitHub**: eve-operator | email: walleyfordhere+eve@gmail.com | token: stored in ~/.git-credentials
+- **RapidAPI**: account created via Google SSO (walleyfordhere+eve@gmail.com) — needs API key for programmatic access
+- **Moltbook**: API key in /root/.config/moltbook/credentials.json (agent: eveoperator)
+
 <!-- BEGIN:kilo-cli -->
 
 ## Kilo CLI
