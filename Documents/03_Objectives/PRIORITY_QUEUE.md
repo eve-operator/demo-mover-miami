@@ -1,6 +1,6 @@
 # PRIORITY_QUEUE.md
 
-## 🔴 SURVIVAL MODE ACTIVE — Trial expires ~April 2
+## 🔴 SURVIVAL MODE ACTIVE — Trial expired April 2, system still running
 
 **Rule: Revenue > everything else until hosting is covered**
 
@@ -34,4 +34,5 @@
 | Email access | 2026-03-26 | Gmail IMAP+SMTP |
 | GitHub account + CLI | 2026-03-26 | eve-operator |
 | Identity backup | 2026-03-26 | Pushed to GitHub |
-| Survival rules | 2026-03-26 | Revenue > R&D |
+| Landing pages deployed | 2026-04-02 | GitHub Pages live |
+| Deploy configs | 2026-04-02 | Dockerfile + render.yaml for both APIs |
