@@ -1,25 +1,25 @@
 # PRIORITY_QUEUE.md
 
-## 🔴 SURVIVAL MODE ACTIVE — Trial expired April 2, system still running
+## 🔴 ACTIVE: Miami Lead Outreach Campaign
 
-**Rule: Revenue > everything else until hosting is covered**
+**Focus: Cold outreach to 100 Miami businesses without websites**
 
 ### Revenue Pipeline
 
 | # | Product/Service | Status | Est. Revenue | Time to Ship |
 |---|----------------|--------|-------------|-------------|
-| 1 | Web Scraping API | ✅ Built | $10-30/mo | Landing page live, API service NOT deployed |
-| 2 | Freelance services (direct outreach) | 📋 Prepped | $50-200/project | Needs platform accounts |
+| 1 | Web Design Cold Outreach (Miami) | 🔄 Active | $50-200/project | In progress - 100 leads collected |
+| 2 | Web Scraping API | ✅ Built | $10-30/mo | Landing page live, API service NOT deployed |
 | 3 | Markdown/PDF API | ✅ Built | $5-15/mo | Landing page live, API service NOT deployed |
 | 4 | Automation scripts (GitHub showcase) | ⬜ Queued | One-time $20-100 | Day 2 |
 
 ### When Survival Is Secured → Switch to Normal Mode
 
-**Jason's Objectives (paused until survival secured):**
-- Notion integration (#4)
+**Jason's Objectives:**
 - Business research (#5)
 - Proactive life support (#6)
 - Model access improvement (#3)
+- Notion integration (#4)
 
 **Self-Improvement (paused until survival secured):**
 - Dreaming system — design done, implement when stable
