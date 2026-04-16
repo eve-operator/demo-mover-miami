@@ -31,3 +31,18 @@ The Kilo CLI (`kilo`) is an agentic coding assistant for the terminal, pre-confi
 - Config: `/root/.config/kilo/opencode.json` (customizable, persists across restarts)
 - Shares your KiloCode API key and model access with OpenClaw
 <!-- END:kilo-cli -->
+
+<!-- BEGIN:1password -->
+## 1Password
+
+The `op` CLI is configured with a 1Password service account. Use it to look up credentials, generate passwords, and manage vault items.
+
+- List vaults: `op vault list`
+- Search items: `op item list --vault <vault-name>`
+- Get a credential: `op item get "<item-name>" --vault <vault-name>`
+- Get specific field: `op item get "<item-name>" --fields password --vault <vault-name>`
+- Generate password: `op item create --category login --title "New Login" --generate-password`
+- Run `op --help` for all available commands.
+
+**Security note:** Only access credentials the user has explicitly requested. Do not list or expose vault contents unnecessarily.
+<!-- END:1password -->
