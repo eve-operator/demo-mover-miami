@@ -43,3 +43,6 @@
 
 - Google Voice setup (for SMS outreach)
 - OR approval to start email outreach
+- **GitHub token expired** — needs re-authentication to push landing pages
+- **Demo sites need UX redesign** — ✅ Restaurant redesigned with mobile-first, testimonials
+  - Next: Apply same pattern to other verticals
