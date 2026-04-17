@@ -61,9 +61,9 @@ Does [Business] show up when people Google for [Category] services in Miami? Hap
 
 ## Next Steps
 1. Wait for Jason to set up Google Voice
-2. Begin outreach to top 10 leads
-3. Track responses and iterate message
-4. Schedule meetings with interested leads
+2. **IN PROGRESS: Deploy scraper API to free host** (Railway/Render/Glitch)
+3. Begin cold outreach with tested message templates
+4. Track response rates per message variant
 
 ## Notes
 - Mac accessible via Tailscale SSH for any manual tasks
