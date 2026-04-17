@@ -10,15 +10,17 @@
 - Phone: (305) 555-0106
 - Source: From our CSV
 
-## Maid to Order  
-- Contact: Need to search
-- Phone: (305) 555-0144
-- Source: From our CSV
+## Maid to Order (from CSV, Hialeah)
+- Contact: Evelyn Q. (from Yelp)
+- Phone: (305) 555-0144 (CSV), alt:305-849-8198
+- Email: Info@maidcleaningmiami.com (from search)
+- Source: Yelp + web search
 
 ## Miami Premium Tires
-- Contact: Need to search
-- Phone: (305) 555-0185  
-- Source: From our CSV
+- Contact: Need to search more
+- Phone: (305) 555-0185
+- Note: 5.0 rating, 52 reviews - HIGH VALUE
+- Demo: Should get demo site when Pages enable
 
 ---
 
